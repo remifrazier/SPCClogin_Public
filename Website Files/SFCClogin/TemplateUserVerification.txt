@@ -1,0 +1,9 @@
+﻿Dear <%UserName%>,
+
+Please verify your membership to the SFCC login demonstration site by clicking the following link:
+
+<%VerificationUrl%>
+
+If you are unable to click on the link for any reason, copy and paste the text of the link into a new browser window.
+
+Thank you!
